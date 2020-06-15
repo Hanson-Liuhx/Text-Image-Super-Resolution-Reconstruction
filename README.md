@@ -2,7 +2,9 @@
 CS172 Final project: Text Image Super-Resolution Reconstruction
 
 Operation Manual for Codes
+
 Dataset (ICDAR2015 Competition Dataset):
+
   You can download this dataset from here: https://github.com/piclem/ICDAR2015-TextSR/blob/master/ICDAR2015-TextSR-dataset.zip?raw=true
   
 Prerequisites: Pytorch, Scipy, Numpy, Tesseract OCR, Pytesseract

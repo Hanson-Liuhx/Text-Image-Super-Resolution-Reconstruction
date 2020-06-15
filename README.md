@@ -25,7 +25,7 @@ Train:
     
   Optional arguments:
   
-    --num_epochs train epoch number [default value is 100]
+    --num_epochs                    train epoch number [default value is 100]
     
   The output super resolution images are on training_results directory.
   
@@ -45,9 +45,9 @@ Test:
     
   Optional arguments:
   
-    --model_name  generator model epoch name [default value is netG_epoch_4_100.pth]
+    --model_name                   generator model epoch name [default value is netG_epoch_4_100.pth]
     
-    --ocr use OCR for validation [default value is 0]
+    --ocr                          use OCR for validation [default value is 0]
     
   The output super resolution images are on benchmark_results directory.
   

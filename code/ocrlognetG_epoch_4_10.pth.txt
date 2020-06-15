@@ -1,0 +1,3 @@
+Average GEN accuracy: 0.824499
+Average LRI accuracy: 0.646728
+

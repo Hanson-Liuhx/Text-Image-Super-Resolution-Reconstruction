@@ -27,3 +27,4 @@ Test:
     --model_name  generator model epoch name [default value is netG_epoch_4_100.pth]
     --ocr use OCR for validation [default value is 0]
   The output super resolution images are on benchmark_results directory.
+  
